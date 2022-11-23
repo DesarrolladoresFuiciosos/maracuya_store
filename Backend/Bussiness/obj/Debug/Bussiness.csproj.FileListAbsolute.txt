@@ -1,0 +1,13 @@
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Dal.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Dto.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Dapper.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Dal.pdb
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Dto.pdb
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\bin\Debug\Dapper.xml
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.pdb

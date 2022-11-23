@@ -1,0 +1,6 @@
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dto\bin\Debug\Dto.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dto\bin\Debug\Dto.pdb
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dto\obj\Debug\Dto.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dto\obj\Debug\Dto.pdb

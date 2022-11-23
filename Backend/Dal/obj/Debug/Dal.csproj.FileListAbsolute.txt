@@ -1,0 +1,11 @@
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\bin\Debug\Dal.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\bin\Debug\Dal.pdb
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\bin\Debug\Dapper.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\bin\Debug\Dto.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\bin\Debug\Dto.pdb
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\bin\Debug\Dapper.xml
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\obj\Debug\Dal.dll
+C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Dal\obj\Debug\Dal.pdb
