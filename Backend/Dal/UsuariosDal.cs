@@ -26,7 +26,12 @@ namespace Dal
             return ListQuery<object, Dto_UsuariosListar>("[dbo].[SP_ListarUsuarios_Id]", new { Id = Id });
         }
 
-       
+        public List<Dto_UsuariosListar> GetUsuariosValidacion(string email, string password)
+        {
+            return ListQuery<object, Dto_UsuariosListar>("[dbo].[SP_Usuarios_Validacion]", new { Email = email, Password = password });
+        }
+
+
         public dynamic AddUsuarios (Dto_UsuariosAgregar dto_UsuariosAgregar)
         {
             return SingleQuery<object, Dto_UsuariosAgregar>("[dbo].[SP_AgregarUsuarios]",

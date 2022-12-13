@@ -11,3 +11,16 @@ C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend
 C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
 C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.dll
 C:\Users\Luis Efe\Documents\Clases\maracuya_store\maracuya_store\Backend\Backend_maracuya_store\Bussiness\obj\Debug\Bussiness.pdb
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Bussiness.dll
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Bussiness.pdb
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Dal.dll
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Dto.dll
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Dapper.dll
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Dal.pdb
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Dto.pdb
+D:\Maracuya Store\Backend\Bussiness\bin\Debug\Dapper.xml
+D:\Maracuya Store\Backend\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+D:\Maracuya Store\Backend\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+D:\Maracuya Store\Backend\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+D:\Maracuya Store\Backend\Bussiness\obj\Debug\Bussiness.dll
+D:\Maracuya Store\Backend\Bussiness\obj\Debug\Bussiness.pdb

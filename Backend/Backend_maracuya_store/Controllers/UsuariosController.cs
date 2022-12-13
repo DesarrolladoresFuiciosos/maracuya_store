@@ -9,7 +9,7 @@ using System.Web.Http;
 
 namespace Backend_maracuya_store.Controllers
 {
-    public class Usuarios_controller : ApiController
+    public class UsuariosController : ApiController
     {
         public UsuariosBussiness Bussiness = new UsuariosBussiness (Properties.Settings.Default.Conexion);
         
@@ -25,6 +25,12 @@ namespace Backend_maracuya_store.Controllers
         public List<Dto_UsuariosListar> GetUsuariosListarId(int Id)
         {
             return Bussiness.GetUsuariosListarId(Id);
+        }
+
+        [HttpGet, Route("api/GetUsuariosValidacion")]
+        public List<Dto_UsuariosListar> GetUsuariosValidacion(string email, string password)
+        {
+            return Bussiness.GetUsuariosValidacion(email, password);
         }
 
         [HttpPost, Route("api/AddUsuarios")]
@@ -56,7 +62,7 @@ namespace Backend_maracuya_store.Controllers
         }
 
 
-        [HttpPut, Route("ActualizaUsuarios")]
+        [HttpPut, Route("api/ActualizaUsuarios")]
         public dynamic ActualizaUsuarios ([FromBody] List<Dto_UsuariosModificar> actualizaUsuarios)
         {
             try

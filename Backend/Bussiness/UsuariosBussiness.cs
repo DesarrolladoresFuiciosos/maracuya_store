@@ -26,7 +26,12 @@ namespace Bussiness
         {
             return Dal.GetUsuariosListarId(Id);
         }
-        
+
+        public List<Dto_UsuariosListar> GetUsuariosValidacion(string email, string password)
+        {
+            return Dal.GetUsuariosValidacion(email, password);
+        }
+
         public dynamic ActualizaUsuarios(Dto_UsuariosModificar actualizaUsuarios)
         {
             return Dal.ActualizaUsuarios(actualizaUsuarios);
